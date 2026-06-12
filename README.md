@@ -1,2 +1,2 @@
-# TensorFlow-for-Machine-Learning
-An intro to Machine Learning using TensorFlow in Python
+# TensorFlow-for-Deep-Learning
+An intro to Deep Learning using TensorFlow in Python
